@@ -6,13 +6,11 @@ body {
 .top-part {
     background-color: black;
     position: relative;
-    /* padding: 0.1px 0; */
 }
 /* header */
 .sub-title{
     background-color: #c6bfbf;
     position: relative;
-    /* padding:1% 5%; */
     padding: 0px 5%;
 }
 
@@ -46,13 +44,11 @@ p {
   /* bottom */
 .final-part{
     background-color: #0b4d14;
-    /* padding: 0.1px 0; */
 }
 
 /* nav bar and bottom nav bar */
 .ul-section{
     list-style-type: none;
-    
     padding: 0;
     overflow: hidden;
   }
